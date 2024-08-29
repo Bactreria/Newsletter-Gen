@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weekly News</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h2 {
+            margin: 0;
+        }
+        p {
+            color: #666;
+            line-height: 1.5;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 20px;
+        }
+        .read-more {
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .read-more a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .read-more a:hover {
+            text-decoration: underline;
+        }
+        .goodbye {
+            text-align: center;
+            margin-top: 30px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI Week: From Claude's Jokes to Amazon's Metis</h1>
+        <p>Hello, Here is the news for this week!</p>
+        <ul>
+            <li>
+                <h2>Claude 3.5 Sonnet: Anthropic's Latest AI Model is a Step Forward, Not a Leap</h2>
+                <p>Anthropic, a leading AI research company, has unveiled Claude 3.5 Sonnet, an upgraded version of its existing Claude 3 AI model. This new model boasts improved performance in math, coding, and logic tasks, as well as enhanced language understanding and even a better sense of humor.</p>
+                <p>This development signifies the ongoing advancements in AI technology, particularly in the realm of language models. As AI models become more sophisticated, they are increasingly being used in various applications, including chatbots, customer service, and content creation. This news showcases the competitive landscape in the AI industry and highlights the continuous efforts to develop more powerful and versatile AI systems.</p>
+                <div class="read-more">
+                    <p>Read more:</p>
+                    <ul>
+                        <li><a href="https://www.bloomberg.com/news/articles/2024-06-20/anthropic-releases-most-intelligent-ai-model-in-rivalry-with-openai">Bloomberg</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <h2>SoftBank's Bold Prediction: Artificial Super Intelligence is Just 10 Years Away</h2>
+                <p>Masayoshi Son, the founder and CEO of SoftBank, has made a bold prediction that artificial super intelligence (ASI) could become a reality within the next decade. Son envisions a future where AI surpasses human intelligence, potentially transforming various aspects of our lives. He predicts that by 2035, AI could be 10,000 times smarter than humans.</p>
+                <p>Son's prediction sparks important discussions about the potential impact of ASI on society. While it raises concerns about the ethical implications of such advanced AI, it also highlights the immense potential of AI to solve complex problems and improve our lives. This news serves as a reminder of the rapid pace of AI development and the need for careful consideration of its potential consequences.</p>
+                <div class="read-more">
+                    <p>Read more:</p>
+                    <ul>
+                        <li><a href="https://www.artificialintelligence-news.com/2024/06/24/softbank-chief-forget-agi-asi-here-within-10-years/">Artificial Intelligence News</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <h2>Emergence AI Raises $97.2 Million to Build AI Agents for Office Workers</h2>
+                <p>Emergence AI, a new AI startup founded by former IBM AI executives, has secured $97.2 million in funding. The company aims to build AI-powered agents that can automate tasks typically performed by knowledge workers. These agents will leverage generative AI models like OpenAI's GPT-4 to handle tasks efficiently.</p>
+                <p>This news highlights the growing interest in AI solutions that can enhance productivity in the workplace. As AI becomes more capable of handling complex tasks, it has the potential to transform various industries and create new opportunities for businesses and individuals. This development underscores the potential of AI to reshape the future of work.</p>
+                <div class="read-more">
+                    <p>Read more:</p>
+                    <ul>
+                        <li><a href="https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/">TechCrunch</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <h2>Amazon's Secret Weapon: 'Metis,' a ChatGPT Rival in the Making</h2>
+                <p>Amazon is reportedly developing a new AI-powered assistant codenamed "Metis," aiming to compete with OpenAI's ChatGPT. Metis will leverage a new AI model called Olympus and is expected to provide conversational answers to tech- and image-based queries, along with links to its sources.</p>
+                <p>This news signifies the growing competition in the AI chatbot market. As AI chatbots become increasingly popular, companies are investing heavily in developing their own AI-powered assistants. This development could potentially lead to advancements in chatbot technology and a wider range of AI-powered applications.</p>
+                <div class="read-more">
+                    <p>Read more:</p>
+                    <ul>
+                        <li><a href="https://www.businessinsider.com/amazon-ai-assistant-metis-alexa-chatbot-chatgpt-openai-2024-6">Business Insider</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <h2>Apple and Meta Team Up: AI Integration for iOS 18</h2>
+                <p>Apple has reportedly held discussions with Meta about integrating Meta's AI model into iOS 18 as part of its Apple Intelligence feature set. This collaboration could potentially bring Meta's advanced AI capabilities to Apple devices, enhancing user experience and expanding the reach of AI technology.</p>
+                <p>This news highlights the growing trend of collaboration between tech giants in the AI space. As AI technology continues to evolve, partnerships between companies can accelerate innovation and bring AI solutions to a wider audience. This development could potentially lead to new and exciting AI applications across various platforms.</p>
+                <div class="read-more">
+                    <p>Read more:</p>
+                    <ul>
+                        <li><a href="https://www.macrumors.com/2024/06/24/apple-meta-talks-ai-model-ios-18/">MacRumors</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <h2>OpenAI Co-Founder's New Venture: Building a Safe Superintelligence</h2>
+                <p>Ilya Sutskever, an OpenAI co-founder and former chief scientist, has launched Safe Superintelligence Inc. (SSI), a company focused on developing safe and ethical superintelligence.  SSI's mission is to address the potential risks associated with advanced AI while harnessing its power for the benefit of humanity.</p>
+                <p>This news highlights the growing importance of ethical considerations in AI development. As AI becomes more powerful, it is crucial to ensure that it is developed and deployed responsibly. SSI's focus on safety and ethics underscores the need for a proactive approach to addressing the potential challenges of superintelligence.</p>
+                <div class="read-more">
+                    <p>Read more:</p>
+                    <ul>
+                        <li><a href="https://www.cnet.com/tech/computing/openai-co-founder-envisions-a-safe-superintelligence-as-claude-ai-gets-funnier/">CNET</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+        <p class="goodbye">Goodbye and see you tomorrow!</p>
+    </div>
+</body>
+</html>
